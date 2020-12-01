@@ -1,0 +1,9 @@
+# Begin /etc/hosts (network card version)
+
+::1         ipv6-localhost ipv6-loopback
+127.0.0.1   localhost.localdomain
+127.0.0.1   localhost
+127.0.0.1   photon-master
+192.168.1.199   photon-node-05-gclee
+192.168.194.22   photon-node-05-3t
+# End /etc/hosts (network card version)

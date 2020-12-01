@@ -1,0 +1,11 @@
+ {
+     "apiVersion": "v1",
+     "kind": "Node",
+     "metadata": {
+         "name": "photon-node-05-3t",
+         "labels":{ "name": "photon-node"}
+     },
+     "spec": {
+         "externalID": "photon-node-05-3t"
+     }
+}
