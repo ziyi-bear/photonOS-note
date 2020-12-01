@@ -1,0 +1,6 @@
+[Match]
+Name=eth2
+
+[Network]
+Address=120.105.128.201/24
+Gateway=120.105.128.254
